@@ -1,128 +1,54 @@
-# Hi there! 👋 I'm Ankit Sharma (whoisBugsbunny)
+# Hello World! 👋 I'm Ankit Sharma (whoisBugsbunny)
 
-just a Programmer💻
+💻 just a Programmer | 🌐 Web Enthusiast | (˶˃ ᵕ ˂˶) Anime Fan | ♟️ Chess Player (BM) | 🧠 Aspiring Omniscient or Galvan | 🎌 Adding Japanese in my Polyglot Arsonal
 
-Just a REGULAR GUY with a passion for ART and DESIGN who discovered a love for WEB Design. Now crafting gorgeous WEBSITES using pure CSS and JS, pushing COMMITS to the Digital World.
+I'm a regular guy who stumbled into the awesome world of WEB Design and now spends his days crafting gorgeous websites with pure CSS and JS, constantly pushing commits to make the digital world a little more beautiful.
 
-## 🚀 Skills & Technologies
+By day, I craft websites. By night, I dive into anime, battle over the chessboard, and study Japanese to one day watch anime without subtitles(日本語を勉強しています - Nihongo o benkyō shite imasu).
 
-Here are some of the technologies and tools I work with:
+Also, I’m a proud member of the “Jack of all trades, master of none” club — always learning, always experimenting.
 
-**Languages:**
-`HTML` | `CSS` | `JavaScript` | `EJS` | `NodeJS` | `Java` | `SQL` | `Dart` | `Shell` | `Scala`
+## 🛠️ My Developer Toolkit
 
-**Frameworks & Libraries:**
+Here are some of the technologies and tools I wield:
+
+**Languages I Speak:**
+`HTML` | `CSS` | `JavaScript` | `EJS` | `NodeJS` | `Java` | `SQL`
+
+**Frameworks & Libraries I Play With:**
 `Firebase` | `MongoDB` | `Swing` | `React` | `Flutterfire`
 
-**Tools & Platforms:**
-`Git` | `Maven`
+**Tools & Platforms I Navigate:**
+`Git` | `AWS (noob)` | `Netlify` | `VS Code` | `IntelliJ` | `Hyper`
 
-## 🔭 My Pinned Projects
+## 📺 When I'm Not Conquering Code...
 
-Here are some projects pinned on my profile:
+Beyond the lines of code, you can find me
+- Lost in the captivating worlds of anime
+- Lost in Space (shoutout Neil deGrasse Tyson!)
+- locked in strategic battles on the Chessboard being BM (Blunder Master)
+- Slowly deciphering Hiragana & Katakana
+- Also, I'm on my quest to *eventually* become Omniscient or maybe just Galvan species 👽
 
-* **codeEndeavor**
-    * Testing deploys https://testing--codeendeavor.netlify.app/ https://whoisbugsbunny.github.io/codeEndeavor/ Quality deploys (will be added sooner) https://qa--codeendeavor.netlify.app/ Final netlify …
-    * Skills used: HTML
-* **cssColor**
-    * CSS Colors from famous websites
-    * Skills used: CSS
-* **delicacy**
-    * java maven project of foodkiosk using swing
-    * Skills used: Java
-* **maheshPortfolio**
-    * Portfolio website
-    * Skills used: HTML
-* **gitPractice**
-    * just learning git commands.
-* **resume**
-    * my resume
-    * Skills used: HTML
+## ♟️ My Chess Adventures (and Misadventures!)
 
-## ✨ Other Notable Projects
+Currently trying my best not to blunder pieces and aiming high:
 
-Here are a few other projects I've worked on:
-
-* **File Manager**
-    * Full Stack File Manager for Global Vidyalay Overseas.
-    * *This is a private product.*
-    * Skills used: EJS, CSS, NodeJS, MongoDB
-* **WebIpadPro**
-    * Workable UI design Inspired from IPad.
-    * Skills used: HTML, CSS, JS
-* **Keralaedu**
-    * Full Stack Web Development Education Website.
-    * Skills used: HTML, CSS, JS, Firebase
-* **Resume Builder**
-    * Resume Builder with Firebase.
-    * Skills used: HTML, CSS, JavaScript, Firebase
-* **syntaxError**
-    * LPU hackthon project ( Smart India Hackthon )
-    * Skills used: HTML
-* **integrityChecker**
-    * Skills used: JavaScript
-* **aeEncrypt**
-    * simple Encryption algo
-    * Skills used: JavaScript
-* **todolist-v1**
-    * todolist from udemy
-    * Skills used: EJS
-* **todolist-v2**
-    * todolist from udemy
-    * Skills used: JavaScript
-* **webipadpro**
-    * Skills used: JavaScript
-* **boardchess**
-    * Skills used: JavaScript
-* **ResourceOS**
-    * Skills used: Shell
-* **makesieltssimple**
-    * *This is a private product.*
-    * Skills used: EJS
-* **learnword**
-    * Skills used: CSS
-* **JScalculator**
-    * check this site and practice some css
-    * Skills used: CSS, JavaScript, HTML5
-* **ranker**
-    * Skills used: JavaScript
-* **quickmath**
-    * Skills used: HTML
-* **quickchat**
-    * *This is a private product.*
-    * Skills used: JavaScript
-* **ai**
-    * Skills used: HTML
-* **Finstro**
-    * Forked from shuboycode/Finstro
-    * Skills used: HTML
-* **react**
-    * Forked from facebook/react
-    * The library for web and native user interfaces.
-    * Skills used: JavaScript
-* **flutterfire**
-    * Forked from firebase/flutterfire
-    * 🔥 A collection of Firebase plugins for Flutter apps.
-    * Skills used: Dart
-* **lila**
-    * Forked from lichess-org/lila
-    * ♞ lichess.org: the forever free, adless and open source chess server ♞
-    * Skills used: Scala
-
-You can find more of my work on my repositories!
+* **Lichess:** [@aekit](https://lichess.org/@/aekit) (Hanging out around 1450 in Rapid, with my sights set on breaking that stubborn 1500 ceiling!)
+* **Chess.com:** [aekit](https://www.chess.com/member/aekit) (My rapid journey stuck at 1173, what kind of demons play on this platform!)
+* **Lishogi:** [@aekit](https://lishogi.org/@/aekit) (Brand new Shogi noob. Shikamaru kind of dragged me here... what a drag!)
 
 ## 🤝 Let's Connect!
 
 * **GitHub:** https://github.com/whoisBugsbunny
-* **Website/Portfolio:** https://aekitsama.netlify.app/ (also listed as https://aekit.netlify.app/)
-* **LinkedIn:** https://www.linkedin.com/in/aekit
+* **Website/Portfolio:** https://aekitsama.netlify.app/ (old profile https://aekit.netlify.app/)
 * **Codepen:** https://codepen.io/aekit
-* **Twitter:** https://twitter.com/Ankit Sharma
 * **Email:** aankitsharmaa422@gmail.com
 
 ---
-
+```
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoisBugsbunny&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoisBugsbunny&show_icons=true&theme=radical) 
 
+```
