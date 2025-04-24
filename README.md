@@ -4,10 +4,9 @@
 
 I'm a regular guy who stumbled into the awesome world of WEB Design and now spends his days crafting gorgeous websites with pure CSS and JS, pushing commits to make the digital world a little more beautiful.
 
-<img src="https://github.com/user-attachments/assets/e7772e69-f271-48b5-be0d-f0e3c27135a2" alt="Technical Difficulties Error GIF" height="180">
-<img src="https://github.com/user-attachments/assets/8b59b75c-68d3-454b-934c-2b55b83500f4" alt="Computer Working GIF" height="180">
-<img src="https://github.com/user-attachments/assets/0503902f-d2a5-4385-846b-2645d0d1ee3c" alt="Syntax Error" height="180">
-<img src="https://github.com/user-attachments/assets/7fe48ca6-cd3d-4546-970b-52c54c9f3ac1" alt="Rainbow RGB GIF by CORSAIR LTT" height="180">
+<img src="https://github.com/user-attachments/assets/e7772e69-f271-48b5-be0d-f0e3c27135a2" alt="Technical Difficulties Error GIF" height="200">
+<img src="https://github.com/user-attachments/assets/8b59b75c-68d3-454b-934c-2b55b83500f4" alt="Computer Working GIF" height="200">
+<img src="https://github.com/user-attachments/assets/7fe48ca6-cd3d-4546-970b-52c54c9f3ac1" alt="Rainbow RGB GIF by CORSAIR LTT" height="200">
 
 Constantly get hit by bugs.
 
@@ -30,9 +29,8 @@ Here are some of the technologies and tools I wield:
 
 ## 📺 When I'm Not Conquering Code...
 
-<img src="https://github.com/user-attachments/assets/d9402343-b3ba-4f90-85d4-f0906db77e1a" alt="Studio Ghibli Movie GIF" height="170">
-<img src="https://github.com/user-attachments/assets/0f6a4a3c-7244-41f5-ba60-8ce2ca588199" alt="Neil Degrasse Tyson Galaxy GIF by cosmosontv" height="170">
-<img src="https://github.com/user-attachments/assets/0b9a2bf9-9d84-47bc-9612-49cd4434e798" alt="Garry vs Vishy" height="170">
+<img src="https://github.com/user-attachments/assets/d9402343-b3ba-4f90-85d4-f0906db77e1a" alt="Studio Ghibli Movie GIF"  height="180">
+<img src="https://github.com/user-attachments/assets/0f6a4a3c-7244-41f5-ba60-8ce2ca588199" alt="Neil Degrasse Tyson Galaxy GIF by cosmosontv" height="180">
 
 Beyond the lines of code, you can find me
 - Lost in the captivating **worlds and art style of anime**
@@ -44,7 +42,8 @@ Beyond the lines of code, you can find me
 
 ## ♟️ My Chess Adventures (and Misadventures!)
 
-<img src="https://github.com/user-attachments/assets/4ea02d17-c2b5-4b19-81a4-dbab2e070ef2" width="150" alt="1. e4 e5 2. Bc4 Bc5 3. Qh5 Nf6 4. Qxf7# (scholar's mate)"/>
+<img src="https://github.com/user-attachments/assets/4ea02d17-c2b5-4b19-81a4-dbab2e070ef2" height="150" alt="1. e4 e5 2. Bc4 Bc5 3. Qh5 Nf6 4. Qxf7# (scholar's mate)"/>
+<img src="https://github.com/user-attachments/assets/0b9a2bf9-9d84-47bc-9612-49cd4434e798" alt="Garry vs Vishy" height="150">
 
 Currently trying my best not to blunder pieces and aiming high:
 
