@@ -1,6 +1,6 @@
 # Hello World! 👋 I'm Ankit Sharma (whoisBugsbunny)
 
-``` 💻 Just a Programmer | 🌐 Web Enthusiast | ⎚-⎚ Anime Fan | ♟️ Chess Player (BM) | 🌌 Space | 🎨 Drawing | 🧠 Aspiring Omniscient or Galvan | 🎌 Adding Japanese in my Arsonal | 🖋️ Books ```
+``` 💻 Just a Programmer | 🌐 Web Enthusiast | ⎚-⎚ Anime Fan | ♟️ Chess Player (BM) | 🌌 Space | 🎨 Drawing | 🧠 Aspiring Omniscient or Galvan | 🎌 Adding Japanese in my Arsenal | 🖋️ Books ```
 
 I'm a regular guy who stumbled into the awesome world of WEB Design and now spends his days crafting gorgeous websites with pure CSS and JS, pushing commits to make the digital world a little more beautiful.
 
