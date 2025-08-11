@@ -6,7 +6,8 @@ I'm a regular guy who stumbled into the awesome world of WEB Design and now spen
 
 <img src="https://github.com/user-attachments/assets/a695f60a-96b7-40d9-b8b8-682c1248dd7d" alt="Fast Typing" height="180">
 <img src="https://github.com/user-attachments/assets/e7772e69-f271-48b5-be0d-f0e3c27135a2" alt="Technical Difficulties Error GIF" height="180">
-<img src="https://github.com/user-attachments/assets/8b59b75c-68d3-454b-934c-2b55b83500f4" alt="Computer Working GIF" height="180">
+<img src="https://github.com/user-attachments/assets/2da5599f-5778-4006-b304-3cf55f7b85b1" alt="Computer Working GIF" height="180">
+
 
 Constantly get hit by bugs.
 
@@ -25,12 +26,12 @@ Here are some of the technologies and tools I wield:
 `Firebase` | `MongoDB` | `Swing` | `React` 
 
 **Tools & Platforms I Navigate:**
-`Git` | `AWS (noob)` | `Netlify` | `VS Code` | `IntelliJ` | `Hyper`
+`Git` | `AWS (noob)` | `Netlify` | `VS Code` | `IntelliJ` | `Hyper` | `Postman`
 
 ## 📺 When I'm Not Conquering Code...
 
 <img src="https://github.com/user-attachments/assets/d9402343-b3ba-4f90-85d4-f0906db77e1a" alt="Studio Ghibli Movie GIF"  height="110">
-<img src="https://github.com/user-attachments/assets/0f6a4a3c-7244-41f5-ba60-8ce2ca588199" alt="Neil Degrasse Tyson Galaxy GIF by cosmosontv" height="110">
+<img src="https://github.com/user-attachments/assets/0f3e9497-c163-4371-ac46-c7b475716d11" alt="Neil Degrasse Tyson Galaxy GIF by cosmosontv" height="110">
 <img src="https://github.com/user-attachments/assets/41b99bdf-90fa-408b-90cc-ef24d13451da" alt="Hiragana-Japanese-Alphabet" height="110">
 <img src="https://github.com/user-attachments/assets/decb1f9b-b8a4-4b9b-918a-50fc195bdbbf" alt="maheshpandey04" height="110">
 
