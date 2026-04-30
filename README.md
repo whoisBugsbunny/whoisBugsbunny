@@ -51,7 +51,7 @@ Beyond the lines of code, you can find me
 Currently trying my best not to blunder pieces and aiming high:
 
 * **Lichess:** [@aekit](https://lichess.org/@/aekit) (Hanging out around 1450 in Rapid, with my sights set on breaking that stubborn 1500 ceiling!)
-* **Chess.com:** [aekit](https://www.chess.com/member/aekit) (My rapid journey stuck at 1173, what kind of demons play on this platform!)
+* **Chess.com:** [aekit](https://www.chess.com/member/aekit) (My rapid journey stuck at 1200, what kind of demons play on this platform!)
 * **Lishogi:** [@aekit](https://lishogi.org/@/aekit) (Brand new Shogi noob. Shikamaru kind of dragged me here... what a drag!)
 
 ## 🤝 Let's Connect!
