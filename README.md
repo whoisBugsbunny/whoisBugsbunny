@@ -57,7 +57,7 @@ Currently trying my best not to blunder pieces and aiming high:
 ## 🤝 Let's Connect!
 
 * **GitHub:** https://github.com/whoisBugsbunny
-* **Website/Portfolio:** https://aekitsama.netlify.app/ (old profile https://aekit.netlify.app/)
+* **Website/Portfolio:** [aekitsama.com](https://aekitsama.com) (old profile https://aekit.netlify.app/)
 * **Codepen:** https://codepen.io/aekit
 * **Email:** aankitsharmaa422@gmail.com
 
